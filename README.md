@@ -2,6 +2,11 @@
 
 En este repositorio se encuentra el código fuente del curso práctico de Django de Udemy.
 
+## Entorno Virtual
+```bash
+pipenv shell
+```
+
 ## Instalación
 
 Para instalar el proyecto se debe clonar el repositorio y crear un entorno virtual con Python 3.7. Luego, se debe instalar las dependencias del proyecto con el comando:
